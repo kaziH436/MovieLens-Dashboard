@@ -1,2 +1,4 @@
 # MovieLens-Dashboard
-4 dashbaords
+4 dashboards 
+
+
